@@ -1,2 +1,3 @@
-# VUFDB
-Vanderbilt University Football Database
+# Football Database
+
+
