@@ -27,7 +27,7 @@ Overall, this project is motivated by the belief that access to high-quality dat
 ---
 ### Database Building
 
-![GitHub Logo](/Images/ERR Diagram Example.png)
+![GitHub Logo](/Images/err_example.png)
 To build the SQL database for the college football team, we began by identifying the key data sources that would be required to support effective scouting and game preparation. These included data on opposing teams' players, formations, and plays, as well as historical game data and statistics.
 
 Once the data sources were identified, we used SQL to create several tables that would organize the data in a way that was easy to navigate and filter. The tables included information on the opposing team's players, such as height, weight, position, and skill level, as well as data on the team's formations and plays, such as the number of players in each formation, and the frequency with which specific plays were run.
