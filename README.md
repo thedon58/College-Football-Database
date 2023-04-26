@@ -1,7 +1,7 @@
 # College Football Database
 ---
 ### Donald Kane
-#### At the request of the Analytics Department, only samples of code and data can be provided.
+#### At the request of the Analytics Department, the name of the team will remain anonymous.
 
 ![GitHub Logo](/Images/cfusa.png)
 
